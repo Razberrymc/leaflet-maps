@@ -1,0 +1,16 @@
+h1 {
+    font-family: "Raleway", "Helvetica", "Verdana", sans-serif;
+    padding-top: 15px;
+}
+
+p {
+    max-width: 500px;
+    text-align: left;
+}
+
+#mapid2 {
+  height: 400px;
+  width: 100%;
+  margin-top: 3rem;
+  border: 1px solid #000;
+ }
